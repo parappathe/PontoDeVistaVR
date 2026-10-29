@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "pontodevistavr", "runtimeExecutable": "python", "runtimeArgs": ["serve.py", "--port", "8804"], "port": 8804 }
+  ]
+}
